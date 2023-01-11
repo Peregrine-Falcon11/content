@@ -56,4 +56,4 @@ Below you will find links to documentation, examples, and tools to work with Mat
 
 ## Browser compatibility
 
-{{Compat}}
+Chrome does support it now starting from version 109.
